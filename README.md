@@ -8,10 +8,8 @@
 * [Team Member Introduction](#team-member-introduction)
 * [Project Outline](#project-outline)
 * [Tech Stack](#tech-stack)
-* [ERD](#erd)
 * [Prerequisites](#prerequisites)
 * [Launch](#launch)
-* [Services](#services)
 
 ## Team Member Introduction
 
@@ -86,12 +84,6 @@
         <li>MySQL: 8.0.22</li>
     </ul>
 </details>
-
-<br>
-
-## ERD
-
-<img src="/uploads/bc47445be3b0b920b1b87435321b59bb/pickpic.png" height="100%">
 
 <br>
 
@@ -200,43 +192,3 @@ $ npm install
 ```bash
 $ npm run serve
 ```
-
-## Services
-
-### 메인 페이지
-
-<img src="/uploads/39bda6dd3ff9c68cf18db4ece2a4947f/image.png" width="800px">
-
-
-#### 회원정보 조회
-
-* 회원 정보 조회, 회원 탈퇴 및 수정, 프로필이미지 설정 가능
-
-<img src="/uploads/506795a7dc74f4b5a2004011896b34e1/image.png" width="800px">
-
-### 관리자 페이지
-
-* 회원 정보 조회, 회원 정보 삭제 가능
-
-<img src="/uploads/215406be9d1b244b665f79bb7ff353c3/image.png" width="800px">
-
-### 게시판
-
-<img src="/uploads/f813c8cbb73ba6d28440a68bba84d090/image.png" width="800px">
-
-
-### 게시글
-
-* 게시글 보기
-
-<img src="/uploads/e47a9be3d9bc68a486f21206ee36d424/image.png" height="1000px">
-
-
-* 게시글 작성, 수정
-
-<img src="/uploads/7fb164a1d73512dbc8d241c3d8776ab7/image.png" width="800px">
-
-
-* 이미지 에디터
-
-<img src="/uploads/4250365621422c47559ccb450db3787a/image.png" width="800px">
